@@ -18,6 +18,22 @@
 - ⚡ Fun fact : *Call me as Kulunu* <br><br><br><br>
 
  <hr width="60%" >
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My GitHub Stats: ....***
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kulunu1317&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br><br>[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Kulunu1317&theme=algolia)](https://github.com/Kulunu1317/github-readme-stats)  <p>  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kulunu1317&theme=algolia)](https://github.com/Kulunu1317/github-readme-stats) </p>
+
+<hr width="60%" >
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect With Me: ....***
+
+
+<p align="left">
+<a href="https://.com/in/kulunu-wijeweera-2aa299323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kulunu wijeweera" height="30" width="40" /></a>
+<a href="https://fb.com/kulunu thathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kulunu thathsara" height="30" width="40" /></a>
+</p>
+<hr width="60%" >
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages & Tools: ....***
