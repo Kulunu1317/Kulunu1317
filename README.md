@@ -24,7 +24,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kulunu1317&theme=algolia)](https://git.io/streak-stats)  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kulunu1317&theme=algolia)](https://github.com/Kulunu1317/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kulunu1317&theme=algolia)](https://github.com/Kulunu1317/github-readme-stats)
 
 <hr width="60%" >
 
@@ -36,8 +35,8 @@
   <a href="https://www.linkedin.com/in/kulunu-wijeweera-2aa299323" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kulunu wijeweera" height="30" width="40" />
   </a>
-  <a href="https://facebook.com/kulunuthathsara" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kulunu thathsara" height="30" width="40" />
+  <a href="https://wa.me/94740703118" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="kulunu whatsapp" height="30" width="40" />
   </a>
 </p>
 
