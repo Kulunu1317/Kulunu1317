@@ -29,7 +29,6 @@
 
 <hr width="60%">
 
-<img align="right" width="180px" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <h3>Connect with me:</h3>
 <p align="left">
@@ -79,6 +78,7 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 
 </p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="300" align="right" margin-bottom="80">
 ## Thanks for Visiting🔝
 ### Made with 💜 by [Kulunu](linkedin.com/in/kulunu-thathsara-2aa299323)
