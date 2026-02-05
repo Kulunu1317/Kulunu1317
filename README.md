@@ -20,10 +20,8 @@
 
 <hr width="60%" >
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My GitHub Stats:***
-
+<h3 align="left">My GitHub Stats:</h3>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kulunu1317&theme=algolia)](https://git.io/streak-stats)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kulunu1317&theme=algolia)](https://github.com/Kulunu1317/github-readme-stats)  
 
 <hr width="60%" >
 
